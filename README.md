@@ -1,5 +1,5 @@
 # robot-artist
-Python scripts to calibrate and control robotic arm.
+Python scripts to calibrate and control a robotic arm
 
 ## Description
 This is the companion code for *element14 Presents* episode 406: "Automated Robot Artist".
